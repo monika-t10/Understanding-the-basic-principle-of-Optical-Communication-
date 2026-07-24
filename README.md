@@ -24,7 +24,8 @@ Measurement of Numerical Aperture of the Fiber
 
 ## Tabulation
 
-![WhatsApp Image 2026-01-24 at 5 10 42 AM](https://github.com/user-attachments/assets/cba92ad8-5153-4efa-8610-6ac13625543e)
+<img width="1600" height="900" alt="WhatsApp Image 2026-07-22 at 8 10 13 AM" src="https://github.com/user-attachments/assets/ad2dbb12-10d2-42a4-ade0-0273dc1c5e98" />
+
 
 
 ## Result
